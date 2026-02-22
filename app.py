@@ -5,7 +5,7 @@ from telegram import Update
 from telegram.ext import Application, MessageHandler, filters, ContextTypes
 
 # פרטי הבוט והטרה-בוקס שלך
-BOT_TOKEN = "8147537021:AAG3G4JLiGXGFeo_A9aseWyILAt9SrPMld0"
+BOT_TOKEN = "8147537021:AAE3WQqs5TltWSh0c4ZGZ8JDtYGgYRUoYUg"
 TERABOX_NDUS = "Ydz8yyYteHui60SoEuxbtttWECL9F953a3AVf9LQ"
 
 async def handle_media(update: Update, context: ContextTypes.DEFAULT_TYPE):
